@@ -1,4 +1,4 @@
-from solver import minimize_sum_with_constraints
+from CS2099_GameTheoryProject.quiz.solver import minimize_sum_with_constraints
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QLineEdit, QPushButton, QVBoxLayout, QHBoxLayout, QMessageBox
 from PyQt5.QtGui import QPainter, QColor, QFont
